@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Gajera</h1>
-<h3 align="center">🚀 Flutter Developer | UI Designer | Creative Coder</h3>
+<h3 align="center">🚀 Flutter Developer | Firebase | Flutter Flow Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Modern+UI+Designer;Flutter+Developer;Creative+Thinker;Building+Beautiful+Apps" />
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-* 🎨 Passionate about **Modern UI Design**
+* 🎨 Passionate about **SHYAM GAJERA**
 * 📱 Flutter Developer
 * 🚀 Love creating smooth animations & clean UX
 * 💡 Always learning new technologies
@@ -38,13 +38,13 @@
 🚀 **UI Design Showcase**
 👉 Clean & modern mobile UI designs
 
-📱 **Booking App UI**
-👉 Smooth UX with calendar & cards
+📱 **Booking App **
+👉 Tour Booking | Login With Google | Sign up | Payment
 
-📒 **Notes App UI**
-👉 Minimal and elegant design
+📒 **Notes App **
+👉 Sign up | Login | CRUD
 
-🎓 **Student Management UI**
+🎓 **Student Management **
 👉 Dashboard & data visualization
 
 ---

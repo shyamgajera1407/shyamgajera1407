@@ -1,26 +1,57 @@
 <h1 align="center">Hi 👋, I'm Shyam Gajera</h1>
-<h3 align="center">🚀 Flutter Developer | Firebase | Flutter Flow Developer </h3>
+
+<h3 align="center">🚀 Flutter Developer | Firebase Specialist | FlutterFlow Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Modern+UI+Designer;Flutter+Developer;Creative+Thinker;Building+Beautiful+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase+Expert;UI+Designer;Building+Modern+Apps;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
-* 🎨 Passionate about **SHYAM GAJERA**
-* 📱 Flutter Developer
-* 🚀 Love creating smooth animations & clean UX
-* 💡 Always learning new technologies
+* 📱 Flutter Developer with strong UI focus
+* 🔥 Firebase & Backend Integration
+* ⚡ FlutterFlow App Builder
+* 🎯 Passionate about clean and modern UI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,python" />
 </p>
+
+**Tech Stack:**
+
+* Flutter | Dart
+* Firebase
+* Git & GitHub
+* FlutterFlow
+* REST APIs
+
+---
+
+## 🚀 Projects
+
+### 📒 Notes App
+
+* Clean and minimal UI
+* Fast note creation
+* Local + cloud ready
+
+### 📅 Booking App
+
+* Modern booking interface
+* Calendar integration
+* Smooth UX
+
+### 🏢 EMS App (Employee Management System)
+
+* Dashboard UI
+* Employee data handling
+* Admin features
 
 ---
 
@@ -33,28 +64,19 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 Currently Learning
 
-🚀 **UI Design Showcase**
-👉 Clean & modern mobile UI designs
-
-📱 **Booking App **
-👉 Tour Booking | Login With Google | Sign up | Payment
-
-📒 **Notes App **
-👉 Sign up | Login | CRUD
-
-🎓 **Student Management **
-👉 Dashboard & data visualization
+* 🐍 Python
+* 🤖 AI / ML
 
 ---
 
-## 📸 UI Preview
+## 🎨 UI Showcase
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=App+UI+1" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=App+UI+2" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=App+UI+3" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Notes+App" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Booking+App" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=EMS+App" width="200"/>
 </p>
 
 ---
@@ -62,24 +84,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/></a>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## ⚡ Developer Quote
 
-* Advanced Flutter Animations
-* Backend Integration
-* Clean Architecture
-
----
-
-## ⚡ Fun Fact
-
-I turn coffee ☕ into beautiful UI 🎨
+> "I don’t just build apps, I design experiences 🚀"
 
 ---
 

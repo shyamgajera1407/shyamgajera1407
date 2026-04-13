@@ -92,25 +92,6 @@
 
 ---
 
-## ⚡ Snake Animation Setup
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: yourusername
-```
-
----
 
 <p align="center">
   💙 Designed with passion by Shyam Gajera

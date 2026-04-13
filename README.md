@@ -1,61 +1,77 @@
-# 👋 Hi, I'm Shyam Gajera
+# 🌌 Neon Float UI (Flutter)
 
-🚀 Flutter Developer | UI Designer | Backend Learner
+A futuristic animated UI built with Flutter featuring neon glow effects, floating cards, and glassmorphism design.
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ Features
 
-* 💡 Passionate about building modern mobile apps
-* 📱 Skilled in Flutter & Firebase
-* 🌐 Learning FastAPI & WebSockets
-* 🎯 Goal: Build scalable & beautiful apps
+* 🌈 Animated gradient background
+* 💎 Glassmorphism UI
+* 🔥 Neon glow effects
+* 🎈 Floating card animation
+* ⚡ Smooth transitions
+
+---
+
+## 📱 Preview
+
+![UI](screenshots/home.png)
+
+---
+
+## 🎬 Animation Demo
+
+![Animation](screenshots/animation.gif)
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💙 Flutter / Dart
-* 🔥 Firebase (Auth, Firestore)
-* ⚡ FastAPI
-* 🎨 UI/UX Design
+* Flutter
+* Dart
+* Material UI
 
 ---
 
-## 📱 Projects
+## 🚀 Getting Started
 
-### 🚖 Booking App
-
-* Hotel & travel booking system
-* Firebase backend
-* Clean UI design
-
-### 🏫 Student Management System
-
-* Add / Edit / Delete students
-* Firebase database
-* Admin dashboard
-
-### 📝 Notes App
-
-* Create & manage notes
-* Local storage + Firebase sync
-
-### 🧑‍💼 EMS (Employee Management System)
-
-* Manage employees data
-* CRUD operations
-* Responsive UI
+```bash
+git clone https://github.com/your-username/neon-float-ui-flutter.git
+cd neon-float-ui-flutter
+flutter pub get
+flutter run
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Project Structure
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+```
+lib/
+ ├── main.dart
+ ├── screens/
+ ├── widgets/
+```
 
 ---
 
-## 📫 Contact Me
+## 💡 Inspiration
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: your-link
+Modern UI trends like:
+
+* Glassmorphism
+* Neumorphism
+* Neon UI
+
+---
+
+## 👨‍💻 Author
+
+**Shyam Gajera**
+
+---
+
+## ⭐ Show Your Support
+
+Give a ⭐ if you like this project!

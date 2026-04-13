@@ -7,7 +7,7 @@
 <!-- ✨ Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase+Expert;FlutterFlow+Creator;Clean+UI+Designer;Building+Modern+Apps"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase;FlutterFlow+Creator;Clean+UI+Designer;Building+Modern+Apps"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 * 📱 Flutter Developer
-* 🔥 Firebase Specialist
+* 🔥 Firebase 
 * ⚡ FlutterFlow Developer
 * 🎯 Focus on Modern UI & Smooth UX
 

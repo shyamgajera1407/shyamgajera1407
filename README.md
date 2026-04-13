@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shyam Gajera</h1>
+<h1 align="center">Hi 👋, I'm SHYAM GAJERA</h1>
 
-<h3 align="center">🚀 Flutter Developer | Firebase Specialist | FlutterFlow Creator</h3>
+<h3 align="center">🚀 Flutter Developer | Firebase | FlutterFlow Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase+Expert;UI+Designer;Building+Modern+Apps;Always+Learning+New+Tech" />
@@ -25,7 +25,8 @@
 
 **Tech Stack:**
 
-* Flutter | Dart
+* Flutter
+* Dart
 * Firebase
 * Git & GitHub
 * FlutterFlow

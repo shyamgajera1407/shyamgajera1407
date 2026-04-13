@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm SHYAM GAJERA</h1>
-
-<h3 align="center">🚀 Flutter Developer | Firebase | FlutterFlow Creator</h3>
+<!-- 🌊 Animated Wave Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase+Expert;UI+Designer;Building+Modern+Apps;Always+Learning+New+Tech" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00F7FF&text=Shyam%20Gajera&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20|%20Firebase%20Expert%20|%20UI%20Designer&descAlignY=60&fontColor=ffffff"/>
+</p>
+
+<!-- ✨ Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase+Expert;FlutterFlow+Creator;Clean+UI+Designer;Building+Modern+Apps"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 📱 Flutter Developer with strong UI focus
-* 🔥 Firebase & Backend Integration
-* ⚡ FlutterFlow App Builder
-* 🎯 Passionate about clean and modern UI
+* 📱 Flutter Developer
+* 🔥 Firebase Specialist
+* ⚡ FlutterFlow Developer
+* 🎯 Focus on Modern UI & Smooth UX
 
 ---
 
@@ -25,8 +29,7 @@
 
 **Tech Stack:**
 
-* Flutter
-* Dart
+* Flutter | Dart
 * Firebase
 * Git & GitHub
 * FlutterFlow
@@ -38,21 +41,29 @@
 
 ### 📒 Notes App
 
-* Clean and minimal UI
-* Fast note creation
-* Local + cloud ready
+* Clean UI
+* Fast performance
+* Minimal design
 
 ### 📅 Booking App
 
-* Modern booking interface
 * Calendar integration
 * Smooth UX
+* Modern UI
 
-### 🏢 EMS App (Employee Management System)
+### 🏢 EMS App
 
-* Dashboard UI
-* Employee data handling
+* Employee dashboard
 * Admin features
+* Data management
+
+---
+
+## 🎨 Animated UI Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Your+App+GIF+Here" width="90%"/>
+</p>
 
 ---
 
@@ -72,16 +83,6 @@
 
 ---
 
-## 🎨 UI Showcase
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Notes+App" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Booking+App" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=EMS+App" width="200"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -91,12 +92,26 @@
 
 ---
 
-## ⚡ Developer Quote
+## ⚡ Snake Animation Setup
 
-> "I don’t just build apps, I design experiences 🚀"
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: yourusername
+```
 
 ---
 
 <p align="center">
-  💙 Thanks for visiting my profile
+  💙 Designed with passion by Shyam Gajera
 </p>

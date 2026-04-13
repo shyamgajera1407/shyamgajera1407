@@ -1,103 +1,88 @@
-# 🎨 Modern UI Design Showcase
+<h1 align="center">Hi 👋, I'm Shyam Gajera</h1>
+<h3 align="center">🚀 Flutter Developer | UI Designer | Creative Coder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UI-Design-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flutter-Projects-02569B?style=for-the-badge&logo=flutter"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Modern+UI+Designer;Flutter+Developer;Creative+Thinker;Building+Beautiful+Apps" />
 </p>
 
 ---
 
-## 🚀 About This Repository
+## 🌟 About Me
 
-A collection of **modern, clean, and professional UI designs** built with focus on:
-
-* Smooth animations 🎬
-* Minimal design 🎯
-* Clean code structure 💻
-
----
-
-## 📱 UI Projects Included
-
-### ✈️ Travel App UI
-
-* Modern home screen
-* Image slider
-* Search bar
-* Clean layout
-
-### 📒 Notes App UI
-
-* Minimal note cards
-* Smooth transitions
-* Elegant typography
-
-### 🧑‍🎓 Student Management UI
-
-* Dashboard design
-* Data cards
-* Simple navigation
-
-### 📅 Booking App UI
-
-* Calendar UI
-* Booking cards
-* Clean UX flow
+* 🎨 Passionate about **Modern UI Design**
+* 📱 Flutter Developer
+* 🚀 Love creating smooth animations & clean UX
+* 💡 Always learning new technologies
 
 ---
 
-## 🧩 Features
-
-* 🔥 Unique UI design
-* ⚡ Smooth animations
-* 📐 Pixel-perfect layouts
-* 🎯 Beginner to advanced friendly
-
----
-
-## 📸 Preview
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x600.png?text=UI+Preview+1" width="200"/>
-  <img src="https://via.placeholder.com/300x600.png?text=UI+Preview+2" width="200"/>
-  <img src="https://via.placeholder.com/300x600.png?text=UI+Preview+3" width="200"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,vscode" />
 </p>
 
 ---
 
-## 🛠️ Tech Used
+## 📊 GitHub Stats
 
-* Flutter
-* Dart
-* Material UI
-
----
-
-## 👨‍💻 Author
-
-**Shyam Gajera**
-
-* GitHub: https://github.com/yourusername
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
 
 ---
 
-## ⭐ Support
+## 🔥 Featured Projects
 
-If you like this repo:
+🚀 **UI Design Showcase**
+👉 Clean & modern mobile UI designs
 
-* ⭐ Star the repo
-* 🍴 Fork it
-* 💬 Share feedback
+📱 **Booking App UI**
+👉 Smooth UX with calendar & cards
 
----
+📒 **Notes App UI**
+👉 Minimal and elegant design
 
-## 📌 Future Updates
-
-* More UI screens
-* Advanced animations
-* Full app integration
+🎓 **Student Management UI**
+👉 Dashboard & data visualization
 
 ---
 
-<p align="center">Made with ❤️ for UI Lovers</p>
+## 📸 UI Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=App+UI+1" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=App+UI+2" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=App+UI+3" width="200"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/></a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced Flutter Animations
+* Backend Integration
+* Clean Architecture
+
+---
+
+## ⚡ Fun Fact
+
+I turn coffee ☕ into beautiful UI 🎨
+
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile
+</p>

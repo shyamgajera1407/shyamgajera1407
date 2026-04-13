@@ -1,93 +1,61 @@
-<!-- TOP BANNER -->
+# 👋 Hi, I'm Shyam Gajera
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=200&section=header&text=Shyam%20Gajera&fontSize=40&fontColor=ffffff" />
-</p>
+🚀 Flutter Developer | UI Designer | Backend Learner
 
 ---
 
-<h2 align="center">🚀 Flutter Developer | Firebase | FastAPI</h2>
+## 🧑‍💻 About Me
 
-<p align="center">
-  Building clean UI apps & scalable backend systems  
-</p>
-
----
-
-## ⚡ About Me
-
-* 📱 Flutter Developer | Flutter Flow Developer 
-* 🔥 Firebase & Backend Integration
-* 🎯 Focus on UI/UX + Performance
-* 📍 India
-
----
-
-## 🧩 My Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<b>👨‍💼 EMS App</b><br/>
-Employee Management System
-</td>
-<td align="center">
-<b>📅 Booking App</b><br/>
-Smart Booking System
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>📝 Notes App</b><br/>
-Simple Notes Manager
-</td>
-<td align="center">
-<b>🎓 Student System</b><br/>
-Student Management System
-</td>
-</tr>
-</table>
-
-</div>
+* 💡 Passionate about building modern mobile apps
+* 📱 Skilled in Flutter & Firebase
+* 🌐 Learning FastAPI & WebSockets
+* 🎯 Goal: Build scalable & beautiful apps
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,git,github" />
-</p>
+* 💙 Flutter / Dart
+* 🔥 Firebase (Auth, Firestore)
+* ⚡ FastAPI
+* 🎨 UI/UX Design
 
 ---
 
-## 📊 GitHub Analytics
+## 📱 Projects
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark" />
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=vision-friendly-dark" />
-</p>
+### 🚖 Booking App
+
+* Hotel & travel booking system
+* Firebase backend
+* Clean UI design
+
+### 🏫 Student Management System
+
+* Add / Edit / Delete students
+* Firebase database
+* Admin dashboard
+
+### 📝 Notes App
+
+* Create & manage notes
+* Local storage + Firebase sync
+
+### 🧑‍💼 EMS (Employee Management System)
+
+* Manage employees data
+* CRUD operations
+* Responsive UI
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-* 🚀 Advanced Flutter UI Design
-* ⚡ Backend APIs with FastAPI
-* 🔥 Clean Architecture
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 📬 Connect
+## 📫 Contact Me
 
-<p align="center">
-  📧 your@email.com
-</p>
-
----
-
-<p align="center">
-  <b>✨ "Design. Develop. Deliver." ✨</b>
-</p>
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: your-link

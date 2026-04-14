@@ -1,7 +1,7 @@
 <!-- 🌊 Animated Wave Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00F7FF&text=SHYAM%20GAJERA&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20|%20Firebase%20|%20UI%20Designer&descAlignY=60&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:2C5364,100:00F7FF&text=SHYAM%20GAJERA&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20|%20Firebase%20|%20Flutter%20Flow&descAlignY=60&fontColor=ffffff"/>
 </p>
 
 <!-- ✨ Typing Animation -->

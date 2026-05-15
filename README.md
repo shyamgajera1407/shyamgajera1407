@@ -76,7 +76,6 @@ class Developer {
 
 <br/>
 
-[`View Project →`](#)
 
 </td>
 
@@ -96,7 +95,6 @@ class Developer {
 
 <br/>
 
-[`View Project →`](#)
 
 </td>
 
@@ -117,7 +115,6 @@ class Developer {
 
 <br/>
 
-[`View Project →`](#)
 
 </td>
 </tr>
@@ -183,27 +180,8 @@ class Developer {
 
 ---
 
-## 📫 Let's Connect & Collaborate
 
-<div align="center">
   
-  <p>
-    <a href="mailto:shyam.gajera@example.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com/in/shyamgajera">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/shyamgajera">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/shyamgajera">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-    </a>
-    <a href="https://github.com/shyamgajera1407">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-    </a>
-  </p>
 
   ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 

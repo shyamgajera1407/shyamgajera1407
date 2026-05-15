@@ -1,49 +1,61 @@
-# Hi there, I'm SHYAM GAJERA 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=250&section=header&text=SHYAM%20GAJERA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Firebase%20|%20FastAPI&descAlignY=55&descSize=25" width="100%"/>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shyamgajera&label=Profile%20views&color=0e75b6&style=flat" alt="shyamgajera" />
-</p>
-
-### 🚀 Flutter Developer | Firebase | FlutterFlow | Fast API
-
-I am a passionate **Mobile Application Developer** specializing in building high-performance, cross-platform apps using **Flutter**. I enjoy bridging the gap between clean design and robust backend integration.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Frontend:** Flutter, Dart, FlutterFlow
-- **Backend & Database:** Firebase (Realtime DB, Firestore, Auth), FastAPI (Python)
-- **Version Control:** Git & GitHub
-- **State Management:** Provider / Riverpod / GetX
-
----
-
-### 📂 Featured Projects
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **EMS APP** | Employee Management System for tracking performance and attendance. | Flutter, Firebase |
-| **Note APP** | A clean, minimalist application for organized note-taking. | Flutter, SQLite |
-| **Real Time Chat** | Instant messaging system with one-to-one real-time communication. | Flutter, Firebase, FastAPI |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamgajera1407&show_icons=true&theme=tokyonight" alt="shyamgajera stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgajera1407&layout=compact&theme=tokyonight" alt="shyamgajera languages" height="150" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Cross-Platform+Experiences;Flutter+Expert;Firebase+Architect;FastAPI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 💫 About Me
+- 🔭 I’m currently working on **Advanced Flutter Booking Apps**
+- ☁️ Specialized in **Real-time databases** & **Cloud Architecture**
+- ⚡ Fun fact: I love turning complex designs into smooth **60FPS animations**
 
+---
+
+### 🛠️ Tech Stack (Animated)
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyamgajera" height="30" width="40" /></a>
-<a href="mailto:your.email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="shyamgajera" height="30" width="40" /></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://www.flutterflow.io"><img src="https://img.shields.io/badge/FlutterFlow-4285F4?style=for-the-badge&logo=flutter&logoColor=white" /></a>
 </p>
 
 ---
-*“Coding is not just about writing lines of code; it's about solving problems.”*
+
+### 🚀 Projects in Action
+| Project | Type | Tech |
+| :--- | :---: | :--- |
+| **⚡ EMS APP** | Management | Flutter + Firebase |
+| **📝 Note APP** | Productivity | Local Persistence |
+| **💬 Real Time Chat** | Communication | FastAPI + Socket.io |
+
+---
+
+### 📊 My Github Lifeline
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shyamgajera&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgajera&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamgajera&theme=react-dark&area=true&hide_border=true&border_radius=10" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mshibanami/action-setup-flutter/main/logo.png" width="50" />
+  <p><i>Keep Coding, Keep Fluttering!</i></p>
+</div>

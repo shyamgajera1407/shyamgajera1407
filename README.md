@@ -11,12 +11,7 @@
   </p>
 
   <!-- Social Badges with Bounce Animation -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=shyamgajera1407&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/shyamgajera1407?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/shyamgajera1407?label=Stars&style=for-the-badge&color=FFA500&labelColor=1a1a1a" alt="Stars" />
-  </p>
-
+ 
 </div>
 
 ---

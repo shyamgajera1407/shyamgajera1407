@@ -33,7 +33,7 @@
 
 ### 🛠️ Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,py,fastapi,mongodb,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,py,fastapi,mongodb,git,github,&theme=dark" />
 </p>
 
 <p align="center">

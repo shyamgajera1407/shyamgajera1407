@@ -3,8 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00B4DB&height=300&section=header&text=SHYAM%20GAJERA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=FLUTTER%20%E2%9C%B6%20FIREBASE%20%E2%9C%B6%20FAST%20API&descAlignY=55&descSize=25" width="100%"/>
 
   <!-- Animated Typing Text -->
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Next-Gen+Mobile+Apps;Firebase+Cloud+Architecture;Custom+API+Development;UI/UX+Animation+Expert" alt="Typing SVG" /></a>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+|+Firebase+|+FlutterFlow+|+FastAPI" alt="Typing SVG" />
+    </a>
   </p>
 </div>
 

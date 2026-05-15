@@ -30,26 +30,24 @@
 | Project | Type | Tech |
 | :--- | :---: | :--- |
 | **⚡ EMS APP** | Management | Flutter + Firebase |
-| **📝 Note APP** | Productivity | Local Persistence |
-| **💬 Real Time Chat** | Communication | FastAPI + Socket.io |
+| **📝 Note APP** | Productivity | Flutter + Firebase |
+| **💬 Real Time Chat** | Communication | FastAPI + WebSocket |
 
 ---
 
 ### 📊 My Github Lifeline
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shyamgajera&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgajera&theme=radical&border_radius=10" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shyamgajera1407&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgajera1407&theme=radical&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamgajera&theme=react-dark&area=true&hide_border=true&border_radius=10" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamgajera1407&theme=react-dark&area=true&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

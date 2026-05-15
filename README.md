@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Gradient Header with Particle Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=SHYAM%20GAJERA&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Digital%20Developer%20with%20&descAlignY=52&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=SHYAM%20GAJERA&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20%20Developer%20%20&descAlignY=52&descSize=20" width="100%"/>
   
   <!-- Animated Typing with Custom Style -->
   <p align="center">
@@ -78,11 +78,6 @@ class Developer {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Features:**
-- 👥 Employee Directory
-- 📊 Performance Tracking
-- 📅 Leave Management
-- 📱 Real-time Updates
 
 <br/>
 
@@ -103,11 +98,6 @@ class Developer {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Features:**
-- ✍️ Rich Text Editor
-- 🏷️ Smart Tags & Categories
-- 🔍 Advanced Search
-- ☁️ Cloud Sync
 
 <br/>
 
@@ -128,11 +118,7 @@ class Developer {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**Features:**
-- ⚡ WebSocket Communication
-- 🔐 JWT Authentication
-- 💾 Message Persistence
-- 📡 Real-time Notifications
+
 
 <br/>
 

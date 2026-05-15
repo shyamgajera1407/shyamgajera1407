@@ -139,7 +139,7 @@ class Developer {
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode&theme=dark&perline=8" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,&theme=dark&perline=8" alt="DevOps Tools" />
 </p>
 
 </div>

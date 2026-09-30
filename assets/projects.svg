@@ -17,11 +17,11 @@
   <text x="66" y="137" fill="#92A5BD" font-family="Arial, Helvetica, sans-serif" font-size="13">Flutter  ·  Firebase</text>
   <rect x="66" y="158" width="285" height="145" rx="16" fill="#0B1422" stroke="#213951"/>
   <rect x="82" y="176" width="90" height="10" rx="5" fill="#26394D"/><rect x="82" y="195" width="143" height="5" rx="2.5" fill="#1C3044"/>
-  <rect x="82" y="216" width="112" height="68" rx="10" fill="#14283B" stroke="#284962"/><circle cx="105" cy="239" r="9" fill="#4CCAF0" opacity=".22"/><path d="M99 257C99 249 111 249 111 257" stroke="#6CDCF0" stroke-width="2" stroke-linecap="round"/><rect x="121" y="232" width="56" height="5" rx="2.5" fill="#6E839D"/><rect x="121" y="244" width="41" height="4" rx="2" fill="#304961"/><rect x="121" y="256" width="49" height="4" rx="2" fill="#304961"/>
+  <rect x="82" y="216" width="112" height="68" rx="10" fill="#14283B" stroke="#284962"/><circle cx="105" cy="239" r="10" fill="#4CCAF0" opacity=".14"/><g transform="translate(99 233) scale(.52)" fill="#6CDCF0"><path d="M14.4 0 0 14.4l4.4 4.4L23.2 0h-8.8z"/><path d="m14.4 8.8-4.4 4.4 4.4 4.4 8.8-8.8h-8.8z"/><path d="m10 18.8 4.4 4.4h8.8l-8.8-8.8-4.4 4.4z"/></g><rect x="121" y="232" width="56" height="5" rx="2.5" fill="#6E839D"/><rect x="121" y="244" width="41" height="4" rx="2" fill="#304961"/><rect x="121" y="256" width="49" height="4" rx="2" fill="#304961"/>
   <rect x="204" y="216" width="130" height="29" rx="8" fill="#13243A"/><rect x="216" y="227" width="48" height="5" rx="2.5" fill="#42627E"/><rect x="276" y="225" width="44" height="8" rx="4" fill="#52C7E5" opacity=".8"/>
   <rect x="204" y="255" width="130" height="29" rx="8" fill="#13243A"/><rect x="216" y="266" width="62" height="5" rx="2.5" fill="#42627E"/><rect x="290" y="264" width="30" height="8" rx="4" fill="#8C83FF" opacity=".8"/>
   <text x="375" y="187" fill="#D5E0ED" font-family="Arial" font-size="13" font-weight="700">Built for daily work</text>
-  <circle cx="380" cy="215" r="4" fill="#60D7EF"/><text x="393" y="219" fill="#8297B1" font-family="Arial" font-size="12">People &amp; access</text>
+  <circle cx="380" cy="215" r="4" fill="#60D7EF"/><text x="393" y="219" fill="#8297B1" font-family="Arial" font-size="12">Employee records</text>
   <circle cx="380" cy="243" r="4" fill="#60D7EF"/><text x="393" y="247" fill="#8297B1" font-family="Arial" font-size="12">Attendance tracking</text>
   <circle cx="380" cy="271" r="4" fill="#60D7EF"/><text x="393" y="275" fill="#8297B1" font-family="Arial" font-size="12">Projects &amp; tasks</text>
   <circle cx="548" cy="56" r="3" fill="#65E0F3"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle>

@@ -2,7 +2,6 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="370" gradientUnits="userSpaceOnUse"><stop stop-color="#0C1727"/><stop offset="1" stop-color="#17152E"/></linearGradient>
     <linearGradient id="edge" x1="70" y1="24" x2="1130" y2="346" gradientUnits="userSpaceOnUse"><stop stop-color="#315D77"/><stop offset=".55" stop-color="#313654"/><stop offset="1" stop-color="#594B86"/></linearGradient>
-    <linearGradient id="flutter" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse"><stop stop-color="#72E4F6"/><stop offset="1" stop-color="#5797FF"/></linearGradient>
     <filter id="glow" x="810" y="54" width="360" height="280" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="34"/></filter>
     <clipPath id="clip"><rect x="38" y="22" width="1124" height="326" rx="22"/></clipPath>
   </defs>
@@ -22,24 +21,21 @@
     <text x="108" y="112" fill="#C9A7FF" font-family="monospace" font-size="15">class</text><text x="157" y="112" fill="#F3F6FC" font-family="monospace" font-size="15" font-weight="700"> ShyamGajera</text><text x="284" y="112" fill="#A9B8CC" font-family="monospace" font-size="15">{</text>
 
     <text x="72" y="148" fill="#687C97" font-family="monospace" font-size="13">02</text>
-    <text x="108" y="148" fill="#68D8EC" font-family="monospace" font-size="15" font-weight="700">  /// LOGIC</text>
+    <text x="108" y="148" fill="#C9A7FF" font-family="monospace" font-size="14">  final</text><text x="162" y="148" fill="#78D8F0" font-family="monospace" font-size="14"> role</text><text x="203" y="148" fill="#F3F6FC" font-family="monospace" font-size="14"> = </text><text x="228" y="148" fill="#B7E3A0" font-family="monospace" font-size="14">'Flutter Developer'</text><text x="382" y="148" fill="#F3F6FC" font-family="monospace" font-size="14">;</text>
 
     <text x="72" y="184" fill="#687C97" font-family="monospace" font-size="13">03</text>
-    <text x="108" y="184" fill="#C9A7FF" font-family="monospace" font-size="14">  final</text><text x="162" y="184" fill="#78D8F0" font-family="monospace" font-size="14"> role</text><text x="203" y="184" fill="#F3F6FC" font-family="monospace" font-size="14"> = </text><text x="228" y="184" fill="#B7E3A0" font-family="monospace" font-size="14">'Flutter Developer'</text><text x="382" y="184" fill="#F3F6FC" font-family="monospace" font-size="14">;</text>
+    <text x="108" y="184" fill="#C9A7FF" font-family="monospace" font-size="14">  final</text><text x="162" y="184" fill="#78D8F0" font-family="monospace" font-size="14"> focus</text><text x="213" y="184" fill="#F3F6FC" font-family="monospace" font-size="14"> = </text><text x="238" y="184" fill="#B7E3A0" font-family="monospace" font-size="14">'Mobile apps &amp; clean UI'</text><text x="433" y="184" fill="#F3F6FC" font-family="monospace" font-size="14">;</text>
 
     <text x="72" y="220" fill="#687C97" font-family="monospace" font-size="13">04</text>
-    <text x="108" y="220" fill="#C9A7FF" font-family="monospace" font-size="14">  final</text><text x="162" y="220" fill="#78D8F0" font-family="monospace" font-size="14"> focus</text><text x="213" y="220" fill="#F3F6FC" font-family="monospace" font-size="14"> = </text><text x="238" y="220" fill="#B7E3A0" font-family="monospace" font-size="14">'Mobile apps &amp; clean UI'</text><text x="433" y="220" fill="#F3F6FC" font-family="monospace" font-size="14">;</text>
+    <text x="108" y="220" fill="#C9A7FF" font-family="monospace" font-size="14">  final</text><text x="162" y="220" fill="#78D8F0" font-family="monospace" font-size="14"> stack</text><text x="213" y="220" fill="#F3F6FC" font-family="monospace" font-size="14"> = [</text><text x="247" y="220" fill="#B7E3A0" font-family="monospace" font-size="14">'Flutter'</text><text x="322" y="220" fill="#A9B8CC" font-family="monospace" font-size="14">, </text><text x="338" y="220" fill="#B7E3A0" font-family="monospace" font-size="14">'Dart'</text><text x="388" y="220" fill="#A9B8CC" font-family="monospace" font-size="14">, </text><text x="404" y="220" fill="#B7E3A0" font-family="monospace" font-size="14">'Firebase'</text><text x="484" y="220" fill="#F3F6FC" font-family="monospace" font-size="14">];</text>
 
     <text x="72" y="256" fill="#687C97" font-family="monospace" font-size="13">05</text>
-    <text x="108" y="256" fill="#C9A7FF" font-family="monospace" font-size="14">  final</text><text x="162" y="256" fill="#78D8F0" font-family="monospace" font-size="14"> stack</text><text x="213" y="256" fill="#F3F6FC" font-family="monospace" font-size="14"> = [</text><text x="247" y="256" fill="#B7E3A0" font-family="monospace" font-size="14">'Flutter'</text><text x="322" y="256" fill="#A9B8CC" font-family="monospace" font-size="14">, </text><text x="338" y="256" fill="#B7E3A0" font-family="monospace" font-size="14">'Dart'</text><text x="388" y="256" fill="#A9B8CC" font-family="monospace" font-size="14">, </text><text x="404" y="256" fill="#B7E3A0" font-family="monospace" font-size="14">'Firebase'</text><text x="484" y="256" fill="#F3F6FC" font-family="monospace" font-size="14">];</text>
-
-    <text x="72" y="292" fill="#687C97" font-family="monospace" font-size="13">06</text>
-    <text x="108" y="292" fill="#A9B8CC" font-family="monospace" font-size="15">}</text>
-    <rect x="127" y="276" width="2" height="19" rx="1" fill="#72E4F6"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+    <text x="108" y="256" fill="#A9B8CC" font-family="monospace" font-size="15">}</text>
+    <rect x="501" y="204" width="2" height="19" rx="1" fill="#54C5F8"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
 
     <path d="M770 91V322" stroke="#293B53"/>
     <text x="805" y="126" fill="#8A9BB2" font-family="monospace" font-size="11" letter-spacing="1.8">BUILT WITH</text>
-    <g transform="translate(805 150) scale(3.25)" fill="url(#flutter)">
+    <g transform="translate(805 150) scale(3.25)" fill="#54C5F8">
       <path d="M14.4 0 0 14.4l4.4 4.4L23.2 0h-8.8z"/>
       <path d="m14.4 8.8-4.4 4.4 4.4 4.4 8.8-8.8h-8.8z"/>
       <path d="m10 18.8 4.4 4.4h8.8l-8.8-8.8-4.4 4.4z"/>

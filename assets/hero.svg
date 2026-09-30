@@ -22,7 +22,7 @@
     <rect x="88" y="335" width="103" height="39" rx="19.5" fill="#142A3D" stroke="#2B5872"/><circle cx="108" cy="354" r="5" fill="#54C7FF"/><text x="122" y="359" fill="#C4EFFF">Flutter</text>
     <rect x="202" y="335" width="88" height="39" rx="19.5" fill="#142A3D" stroke="#2B5872"/><circle cx="222" cy="354" r="5" fill="#58A6FF"/><text x="236" y="359" fill="#C4EFFF">Dart</text>
     <rect x="301" y="335" width="119" height="39" rx="19.5" fill="#142A3D" stroke="#2B5872"/><circle cx="321" cy="354" r="5" fill="#FFCA28"/><text x="335" y="359" fill="#C4EFFF">Firebase</text>
-    <rect x="431" y="335" width="137" height="39" rx="19.5" fill="#211F3C" stroke="#514A81"/><circle cx="451" cy="354" r="5" fill="#A996FF"/><text x="465" y="359" fill="#D4CCFF">Applied AI</text>
+    <rect x="431" y="335" width="137" height="39" rx="19.5" fill="#142A3D" stroke="#2B5872"/><circle cx="451" cy="354" r="5" fill="#54C7FF"/><text x="465" y="359" fill="#C4EFFF">REST APIs</text>
   </g>
   <text x="88" y="432" fill="#72839A" font-family="monospace" font-size="12" letter-spacing="1">CRAFTING THE DETAILS THAT MAKE APPS FEEL RIGHT</text>
 

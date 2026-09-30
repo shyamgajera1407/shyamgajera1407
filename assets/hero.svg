@@ -1,0 +1,26 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520"><stop stop-color="#07111F"/><stop offset=".55" stop-color="#0D1728"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<linearGradient id="accent" x1="190" y1="95" x2="850" y2="450"><stop stop-color="#54C7FF"/><stop offset="1" stop-color="#7C5CFF"/></linearGradient>
+<linearGradient id="screen" x1="890" y1="110" x2="1030" y2="400"><stop stop-color="#10243D"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="18"/></filter><filter id="smallGlow"><feGaussianBlur stdDeviation="5"/></filter>
+<clipPath id="phoneClip"><rect x="893" y="104" width="170" height="310" rx="27"/></clipPath>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<circle cx="840" cy="250" r="150" fill="#4F8CFF" opacity=".10" filter="url(#glow)"><animate attributeName="opacity" values=".06;.15;.06" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="1000" cy="250" r="120" fill="#7C5CFF" opacity=".12" filter="url(#glow)"><animate attributeName="opacity" values=".08;.18;.08" dur="3.5s" repeatCount="indefinite"/></circle>
+<g opacity=".11" stroke="#8EA9D9"><path d="M0 420H1200"/><path d="M0 350H1200"/><path d="M0 280H1200"/><path d="M0 210H1200"/><path d="M100 0V520"/><path d="M220 0V520"/><path d="M340 0V520"/><path d="M460 0V520"/><path d="M580 0V520"/><path d="M700 0V520"/><path d="M820 0V520"/><path d="M940 0V520"/><path d="M1060 0V520"/></g>
+<text x="90" y="90" fill="#65D9FF" font-family="monospace" font-size="16" letter-spacing="3">FLUTTER.DEVELOPER</text>
+<rect x="90" y="112" width="54" height="3" rx="2" fill="url(#accent)"><animate attributeName="width" values="54;130;54" dur="2.2s" repeatCount="indefinite"/></rect>
+<text x="90" y="190" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">SHYAM GAJERA</text>
+<text x="94" y="235" fill="#A9B7CA" font-family="Arial, Helvetica, sans-serif" font-size="22">Flutter • Dart • Firebase • Mobile Application</text>
+<text x="94" y="282" fill="#62D5FF" font-family="monospace" font-size="17">&gt; building modern mobile experiences</text>
+<rect x="438" y="265" width="9" height="22" fill="#62D5FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<g font-family="Arial, Helvetica, sans-serif" font-size="14"><rect x="92" y="325" width="106" height="38" rx="19" fill="#12263A" stroke="#24496A"/><text x="122" y="349" fill="#9DDFFF">Flutter</text><rect x="210" y="325" width="94" height="38" rx="19" fill="#12263A" stroke="#24496A"/><text x="239" y="349" fill="#9DDFFF">Dart</text><rect x="316" y="325" width="112" height="38" rx="19" fill="#12263A" stroke="#24496A"/><text x="345" y="349" fill="#9DDFFF">Firebase</text><rect x="440" y="325" width="170" height="38" rx="19" fill="#161B38" stroke="#403B77"/><text x="468" y="349" fill="#C8BEFF">Mobile Apps</text></g>
+<rect x="875" y="86" width="206" height="350" rx="39" fill="#020617" opacity=".65" filter="url(#smallGlow)"/>
+<rect x="875" y="75" width="206" height="350" rx="39" fill="#050B14" stroke="#5C6B83" stroke-width="2"/><rect x="883" y="91" width="190" height="318" rx="31" fill="url(#screen)"/>
+<rect x="944" y="82" width="68" height="17" rx="8.5" fill="#02050A"/><circle cx="978" cy="90.5" r="4" fill="#263A56"/>
+<g clip-path="url(#phoneClip)"><circle cx="1025" cy="145" r="80" fill="#4C7DFF" opacity=".11"/><text x="910" y="140" fill="#7DD9FF" font-family="monospace" font-size="11">FLUTTER APP</text><text x="910" y="174" fill="#F8FAFC" font-family="Arial" font-size="21" font-weight="700">Hello, Shyam</text><text x="910" y="194" fill="#7F91AA" font-family="Arial" font-size="10">Build. Ship. Repeat.</text><rect x="910" y="220" width="126" height="54" rx="14" fill="#13263C" stroke="#264968"/><circle cx="929" cy="247" r="11" fill="#54C7FF" opacity=".18"/><path d="M923 247L928 252L937 241" stroke="#54C7FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><text x="949" y="243" fill="#D8E4F2" font-family="Arial" font-size="10">PROJECTS</text><text x="949" y="258" fill="#71859F" font-family="Arial" font-size="8">2 active builds</text><rect x="910" y="287" width="126" height="54" rx="14" fill="#171832" stroke="#3D3B68"/><circle cx="929" cy="314" r="11" fill="#7C5CFF" opacity=".18"/><path d="M923 316L928 309L934 314L938 307" stroke="#A996FF" stroke-width="2" fill="none"/><text x="949" y="310" fill="#D8E4F2" font-family="Arial" font-size="10">AI HIRE</text><text x="949" y="325" fill="#71859F" font-family="Arial" font-size="8">Gemini powered</text><rect x="906" y="358" width="134" height="5" rx="2.5" fill="#1E334D"><animate attributeName="width" values="35;134;35" dur="3s" repeatCount="indefinite"/></rect></g>
+<rect x="948" y="416" width="60" height="4" rx="2" fill="#7A8799"/>
+<g fill="#6AD9FF" font-family="monospace" font-size="18" opacity=".65"><text x="755" y="130">&lt;/&gt;</text><text x="700" y="405">{ }</text><text x="1085" y="455">01</text><text x="780" y="455">01</text></g>
+</svg>

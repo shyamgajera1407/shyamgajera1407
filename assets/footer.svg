@@ -1,6 +1,16 @@
-<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="170"><stop stop-color="#0D1A2A"/><stop offset=".5" stop-color="#111C31"/><stop offset="1" stop-color="#17152C"/></linearGradient></defs>
-<rect width="1200" height="170" rx="26" fill="url(#g)"/><path d="M0 128C180 78 260 165 430 115C600 65 710 125 860 90C1010 55 1080 108 1200 68" stroke="#31547A" stroke-width="1.5" opacity=".55"/><path d="M0 143C180 93 260 180 430 130C600 80 710 140 860 105C1010 70 1080 123 1200 83" stroke="#5A4A9C" stroke-width="1" opacity=".35"/>
-<text x="600" y="68" text-anchor="middle" fill="#F8FAFC" font-family="Arial" font-size="25" font-weight="700">FLUTTER × AI</text><text x="600" y="98" text-anchor="middle" fill="#7F93AC" font-family="monospace" font-size="13">BUILDING MOBILE EXPERIENCES</text>
-<circle cx="80" cy="45" r="3" fill="#54C7FF"><animate attributeName="cy" values="45;25;45" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="125" r="3" fill="#A78BFA"><animate attributeName="cy" values="125;105;125" dur="2.4s" repeatCount="indefinite"/></circle>
+<svg width="1200" height="178" viewBox="0 0 1200 178" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="178" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1A2A"/><stop offset=".52" stop-color="#121C31"/><stop offset="1" stop-color="#1A1731"/></linearGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#54C7E5"/><stop offset=".5" stop-color="#9A85FF"/><stop offset="1" stop-color="#54C7E5"/></linearGradient>
+  </defs>
+  <rect width="1200" height="178" rx="26" fill="url(#bg)"/>
+  <path d="M0 143C171 93 290 169 452 129C635 84 738 157 900 110C1021 75 1095 107 1200 78" stroke="#344A69" stroke-width="1" opacity=".55"/>
+  <path d="M0 153C171 103 290 179 452 139C635 94 738 167 900 120C1021 85 1095 117 1200 88" stroke="#554B85" stroke-width="1" opacity=".4"/>
+  <text x="600" y="66" text-anchor="middle" fill="#F4F7FC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">HAVE AN IDEA FOR A MOBILE APP?</text>
+  <text x="600" y="96" text-anchor="middle" fill="#A6B4C8" font-family="monospace" font-size="12" letter-spacing="2">LET'S MAKE IT USEFUL  ·  FLUTTER × AI</text>
+  <rect x="510" y="119" width="180" height="2" rx="1" fill="#28374E"/><rect x="510" y="119" width="54" height="2" rx="1" fill="url(#line)"><animate attributeName="x" values="510;636;510" dur="5s" repeatCount="indefinite"/></rect>
+  <circle cx="96" cy="49" r="3" fill="#64D9EE"><animate attributeName="cy" values="49;35;49" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1102" cy="122" r="3" fill="#A493FF"><animate attributeName="cy" values="122;106;122" dur="2.6s" repeatCount="indefinite"/></circle>
+  <path d="M147 56L151 60L159 50" stroke="#67D9EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
+  <path d="M1040 48L1044 52L1052 42" stroke="#A493FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
 </svg>

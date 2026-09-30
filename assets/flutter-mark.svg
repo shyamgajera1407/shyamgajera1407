@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 371.43" role="img" aria-labelledby="title">
+  <title id="title">Flutter logo mark</title>
+  <polygon fill="#54C5F8" points="300 171.43 185.72 171.43 85.73 271.44 142.85 328.57 300 171.43"/>
+  <polygon fill="#54C5F8" points="57.15 242.87 0 185.72 185.72 0 300 0 57.15 242.87"/>
+  <polygon fill="#01579B" points="142.85 328.57 185.72 371.44 300 371.44 200.01 271.44 142.85 328.57"/>
+  <polygon fill="#1A237E" opacity=".24" points="142.85 328.57 227.61 299.24 200.01 271.44"/>
+  <rect fill="#29B6F6" x="102.45" y="231.03" width="80.81" height="80.81" transform="translate(-150.09 180.52) rotate(-45)"/>
+</svg>

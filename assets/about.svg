@@ -35,10 +35,12 @@
 
     <path d="M770 91V322" stroke="#293B53"/>
     <text x="805" y="126" fill="#8A9BB2" font-family="monospace" font-size="11" letter-spacing="1.8">BUILT WITH</text>
-    <g transform="translate(805 150) scale(3.25)" fill="#54C5F8">
-      <path d="M14.4 0 0 14.4l4.4 4.4L23.2 0h-8.8z"/>
-      <path d="m14.4 8.8-4.4 4.4 4.4 4.4 8.8-8.8h-8.8z"/>
-      <path d="m10 18.8 4.4 4.4h8.8l-8.8-8.8-4.4 4.4z"/>
+    <g transform="translate(800 128) scale(.3)">
+      <polygon fill="#54C5F8" points="300 171.43 185.72 171.43 85.73 271.44 142.85 328.57 300 171.43"/>
+      <polygon fill="#54C5F8" points="57.15 242.87 0 185.72 185.72 0 300 0 57.15 242.87"/>
+      <polygon fill="#01579B" points="142.85 328.57 185.72 371.44 300 371.44 200.01 271.44 142.85 328.57"/>
+      <polygon fill="#1A237E" opacity=".24" points="142.85 328.57 227.61 299.24 200.01 271.44"/>
+      <rect fill="#29B6F6" x="102.45" y="231.03" width="80.81" height="80.81" transform="translate(-150.09 180.52) rotate(-45)"/>
     </g>
     <text x="913" y="189" fill="#F1F5FB" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Flutter</text>
     <text x="914" y="215" fill="#8698B1" font-family="monospace" font-size="11">DESIGN · LOGIC · EXPERIENCE</text>

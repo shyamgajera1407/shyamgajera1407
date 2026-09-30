@@ -18,10 +18,8 @@
 ## ✦ About me
 
 <div align="center">
-  <img src="./assets/about.svg" alt="Animated Dart code: class ShyamGajera, logic for building mobile experiences with Flutter" width="100%" />
+  <img src="./assets/about.svg" alt="Mac-style animated Dart code about Shyam Gajera, Flutter developer" width="100%" />
 </div>
-
-I’m **Shyam**, a Flutter developer focused on polished mobile experiences, clear app logic, and reliable integrations.
 
 <br />
 
@@ -29,13 +27,6 @@ I’m **Shyam**, a Flutter developer focused on polished mobile experiences, cle
 
 <div align="center">
   <img src="./assets/projects.svg" alt="Selected work: Employee Management and AI Hire" width="100%" />
-</div>
-
-<div align="center">
-
-**Employee Management** · Flutter & Firebase · Team records, attendance, and task workflows<br />
-**AI Hire** · Flutter · Resume insights, candidate shortlisting, and interview support
-
 </div>
 
 ## ✦ Tools I use

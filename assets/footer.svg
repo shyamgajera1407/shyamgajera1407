@@ -1,16 +1,8 @@
-<svg width="1200" height="178" viewBox="0 0 1200 178" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="178" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1A2A"/><stop offset=".52" stop-color="#121C31"/><stop offset="1" stop-color="#1A1731"/></linearGradient>
-    <linearGradient id="line" x1="100" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#54C7E5"/><stop offset=".5" stop-color="#9A85FF"/><stop offset="1" stop-color="#54C7E5"/></linearGradient>
-  </defs>
-  <rect width="1200" height="178" rx="26" fill="url(#bg)"/>
-  <path d="M0 143C171 93 290 169 452 129C635 84 738 157 900 110C1021 75 1095 107 1200 78" stroke="#344A69" stroke-width="1" opacity=".55"/>
-  <path d="M0 153C171 103 290 179 452 139C635 94 738 167 900 120C1021 85 1095 117 1200 88" stroke="#554B85" stroke-width="1" opacity=".4"/>
-  <text x="600" y="66" text-anchor="middle" fill="#F4F7FC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">HAVE AN IDEA FOR A MOBILE APP?</text>
-  <text x="600" y="96" text-anchor="middle" fill="#A6B4C8" font-family="monospace" font-size="12" letter-spacing="2">LET'S MAKE IT USEFUL  ·  FLUTTER × AI</text>
-  <rect x="510" y="119" width="180" height="2" rx="1" fill="#28374E"/><rect x="510" y="119" width="54" height="2" rx="1" fill="url(#line)"><animate attributeName="x" values="510;636;510" dur="5s" repeatCount="indefinite"/></rect>
-  <circle cx="96" cy="49" r="3" fill="#64D9EE"><animate attributeName="cy" values="49;35;49" dur="3s" repeatCount="indefinite"/></circle>
-  <circle cx="1102" cy="122" r="3" fill="#A493FF"><animate attributeName="cy" values="122;106;122" dur="2.6s" repeatCount="indefinite"/></circle>
-  <path d="M147 56L151 60L159 50" stroke="#67D9EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
-  <path d="M1040 48L1044 52L1052 42" stroke="#A493FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/>
+<svg width="1200" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="160" rx="26" fill="#FFFDF8" stroke="#ECE8DF"/>
+  <circle cx="93" cy="80" r="25" fill="#EDE9FF"/><path d="M83 80H103M93 70V90" stroke="#6555BD" stroke-width="2" stroke-linecap="round"/>
+  <text x="143" y="70" fill="#252230" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Keep making useful things.</text>
+  <text x="143" y="99" fill="#77727F" font-family="Arial,Helvetica,sans-serif" font-size="15">One thoughtful screen, one small improvement at a time.</text>
+  <path d="M906 101C957 47 1003 113 1051 65C1082 34 1118 56 1150 42" stroke="#D8D0F7" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="0;-52" dur="4s" repeatCount="indefinite"/></path>
+  <circle cx="1051" cy="65" r="6" fill="#E9825B"><animate attributeName="r" values="5;8;5" dur="2.5s" repeatCount="indefinite"/></circle>
 </svg>

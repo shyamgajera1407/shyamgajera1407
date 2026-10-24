@@ -1,57 +1,43 @@
 <div align="center">
+  <img src="./assets/hero.svg" alt="Shyam Gajera — Flutter developer building mobile applications" width="100%" />
 
-<a href="https://github.com/shyamgajera1407">
-  <img src="./assets/hero.svg" alt="Shyam Gajera — Flutter and mobile application developer" width="100%" />
-</a>
+  <br />
 
-### Flutter · Dart · Firebase · Mobile Applications · API Integration
+  <strong>FLUTTER · DART · FIREBASE · MOBILE APPLICATIONS · API INTEGRATION</strong>
 
-<a href="https://github.com/shyamgajera1407"><img src="https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Flutter-101827?style=for-the-badge&logo=flutter&logoColor=54D5F2" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-101827?style=for-the-badge&logo=dart&logoColor=58A6FF" alt="Dart" />
-<img src="https://img.shields.io/badge/Firebase-101827?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-<img src="https://img.shields.io/badge/REST%20API-101827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST API integration" />
+  <br /><br />
 
+  <a href="https://github.com/shyamgajera1407"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Flutter-171717?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-171717?style=flat-square&logo=dart&logoColor=58A6FF" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-171717?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/API%20Integration-171717?style=flat-square&logo=postman&logoColor=FF6C37" alt="API integration" />
 </div>
 
----
+<br />
 
-## 👋 About me
+## A little about me
+
+I’m **Shyam Gajera**, a mobile application developer working with Flutter and Dart. I enjoy turning ideas into useful apps, connecting them to Firebase and APIs, and making the experience feel clear from the first tap.
 
 <div align="center">
-  <img src="./assets/about.svg" alt="Animated Dart code profile introducing Shyam Gajera and his mobile development focus" width="100%" />
+  <img src="./assets/about.svg" alt="A simple animated sketch of a mobile app taking shape" width="100%" />
 </div>
 
-I build mobile applications with **Flutter and Dart**, connect them to **Firebase and REST APIs**, and focus on clear interfaces and dependable user experiences.
+## My toolkit
 
-## 🧰 Technology
-
-<div align="center">
-
-| Mobile | Backend & data | Integration |
-|:--:|:--:|:--:|
+| **Build** | **Connect** | **Integrate** |
+|:--|:--|:--|
 | Flutter · Dart | Firebase | REST APIs |
 
-<img src="https://img.shields.io/badge/Flutter-172235?style=flat-square&logo=flutter&logoColor=54D5F2" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-172235?style=flat-square&logo=dart&logoColor=58A6FF" alt="Dart" />
-<img src="https://img.shields.io/badge/Firebase-172235?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-<img src="https://img.shields.io/badge/API%20Integration-172235?style=flat-square&logo=postman&logoColor=FF6C37" alt="API integration" />
-
-</div>
-
-## 📊 GitHub activity
-
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shyamgajera1407&show_icons=true&hide_border=true&bg_color=0D1728&title_color=65DDF2&text_color=C4D0E0&icon_color=9A85FF&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgajera1407&layout=compact&hide_border=true&bg_color=0D1728&title_color=65DDF2&text_color=C4D0E0" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shyamgajera1407&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=5144A3&text_color=42404D&icon_color=E9825B&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgajera1407&layout=compact&hide_border=true&bg_color=FFFDF8&title_color=5144A3&text_color=42404D" alt="Most used programming languages" />
 
 </div>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Animated invitation to build useful mobile app ideas together" width="100%" />
-
-  <sub>Thanks for stopping by · <a href="https://github.com/shyamgajera1407">Explore my repositories</a></sub>
+  <img src="./assets/footer.svg" alt="Keep making useful things" width="100%" />
+  <sub><a href="https://github.com/shyamgajera1407">Find me on GitHub</a></sub>
 </div>
-

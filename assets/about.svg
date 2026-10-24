@@ -1,11 +1,39 @@
-<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="190" rx="26" fill="#FFFDF8" stroke="#ECE8DF"/>
-  <rect x="34" y="31" width="538" height="128" rx="19" fill="#F3F0FF"/>
-  <circle cx="78" cy="76" r="17" fill="#DED8FF"/><path d="M71 76L76 81L86 70" stroke="#6253BD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="112" y="72" fill="#373343" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">App idea</text><text x="112" y="99" fill="#77727F" font-family="Arial,Helvetica,sans-serif" font-size="14">Shape the experience with Flutter.</text>
-  <path d="M587 95H610" stroke="#D7D1C7" stroke-width="2" stroke-dasharray="4 5"/><path d="M605 90L611 95L605 100" stroke="#D7D1C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="628" y="31" width="538" height="128" rx="19" fill="#FFF0E9"/>
-  <circle cx="673" cy="76" r="17" fill="#FFDCCB"/><path d="M665 77L671 83L682 69" stroke="#B45B3A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="707" y="72" fill="#373343" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Ready to use</text><text x="707" y="99" fill="#77727F" font-family="Arial,Helvetica,sans-serif" font-size="14">Connect the pieces. Polish the details.</text>
-  <circle cx="1095" cy="116" r="4" fill="#E9825B"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="page" x1="50" y1="0" x2="1150" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFDF8"/><stop offset="1" stop-color="#F7F4ED"/></linearGradient>
+    <linearGradient id="window" x1="159" y1="79" x2="1046" y2="484" gradientUnits="userSpaceOnUse"><stop stop-color="#111714"/><stop offset="1" stop-color="#090D0B"/></linearGradient>
+    <filter id="shadow" x="75" y="34" width="1050" height="520" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="17"/></filter>
+    <pattern id="dots" width="96" height="82" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="16" r="2.6" fill="#D8D5CC" opacity=".52"/>
+      <circle cx="58" cy="9" r="2.2" fill="#E7BBA8" opacity=".4"/>
+      <circle cx="84" cy="37" r="2.8" fill="#D8D5CC" opacity=".46"/>
+      <circle cx="34" cy="55" r="2.4" fill="#D8D5CC" opacity=".48"/>
+      <circle cx="72" cy="72" r="2.2" fill="#E7BBA8" opacity=".34"/>
+      <circle cx="5" cy="76" r="2" fill="#D8D5CC" opacity=".4"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="560" rx="28" fill="url(#page)"/>
+  <rect width="1200" height="560" rx="28" fill="url(#dots)"/>
+  <ellipse cx="600" cy="491" rx="444" ry="30" fill="#27251F" opacity=".18" filter="url(#shadow)"/>
+  <rect x="138" y="62" width="924" height="423" rx="22" fill="#111714"/>
+  <rect x="142" y="66" width="916" height="415" rx="19" fill="url(#window)" stroke="#313A34"/>
+  <path d="M161 66H1039C1049.49 66 1058 74.5066 1058 85V127H142V85C142 74.5066 150.507 66 161 66Z" fill="#171E1A"/>
+  <path d="M142 127.5H1058" stroke="#303A33"/>
+  <circle cx="172" cy="97" r="5.5" fill="#FF6B63"/><circle cx="193" cy="97" r="5.5" fill="#F5C451"/><circle cx="214" cy="97" r="5.5" fill="#78C66A"/>
+  <text x="600" y="102" text-anchor="middle" fill="#A9B1AA" font-family="SFMono-Regular,Consolas,monospace" font-size="13">about_me.dart</text>
+  <text x="1014" y="101" text-anchor="end" fill="#738077" font-family="SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="1.5">DART</text>
+  <g font-family="SFMono-Regular,Consolas,monospace" font-size="15">
+    <text x="191" y="171" fill="#6B776E">01</text><text x="222" y="171" fill="#C792EA">class</text><text x="274" y="171" fill="#79DCE8"> ShyamGajera</text><text x="403" y="171" fill="#D5DED6"> {</text>
+    <text x="191" y="210" fill="#6B776E">02</text><text x="222" y="210" fill="#C792EA">  final</text><text x="282" y="210" fill="#80D7D1"> String</text><text x="347" y="210" fill="#D5DED6"> role = </text><text x="414" y="210" fill="#B6D889">'Mobile Application Developer'</text><text x="666" y="210" fill="#D5DED6">;</text>
+    <text x="191" y="249" fill="#6B776E">03</text><text x="222" y="249" fill="#C792EA">  final</text><text x="282" y="249" fill="#80D7D1"> List&lt;String&gt;</text><text x="394" y="249" fill="#D5DED6"> stack = [</text>
+    <text x="191" y="288" fill="#6B776E">04</text><text x="257" y="288" fill="#B6D889">'Flutter'</text><text x="331" y="288" fill="#D5DED6">, </text><text x="347" y="288" fill="#B6D889">'Dart'</text><text x="395" y="288" fill="#D5DED6">, </text><text x="411" y="288" fill="#B6D889">'Firebase'</text><text x="490" y="288" fill="#D5DED6">,</text>
+    <text x="191" y="327" fill="#6B776E">05</text><text x="257" y="327" fill="#B6D889">'Mobile Applications'</text><text x="426" y="327" fill="#D5DED6">, </text><text x="442" y="327" fill="#B6D889">'REST API Integration'</text>
+    <text x="191" y="366" fill="#6B776E">06</text><text x="222" y="366" fill="#D5DED6">  ];</text>
+    <text x="191" y="405" fill="#6B776E">07</text><text x="222" y="405" fill="#C792EA">  String</text><text x="292" y="405" fill="#80D7D1"> get</text><text x="331" y="405" fill="#D5DED6"> approach =&gt;</text>
+    <text x="191" y="444" fill="#6B776E">08</text><text x="257" y="444" fill="#B6D889">'Thoughtful apps, built with care.'</text><text x="535" y="444" fill="#D5DED6">;</text>
+    <text x="191" y="471" fill="#6B776E">09</text><text x="222" y="471" fill="#D5DED6">}</text>
+  </g>
+  <rect x="403" y="429" width="2" height="20" rx="1" fill="#7EDCE7"><animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite"/></rect>
+  <text x="142" y="526" fill="#57534D" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">MY APPROACH</text>
+  <text x="270" y="526" fill="#77716A" font-family="Arial,Helvetica,sans-serif" font-size="14">Clear thinking, useful details, and a little care in every interaction.</text>
 </svg>

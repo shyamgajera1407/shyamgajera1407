@@ -4,10 +4,10 @@
 
 <br />
 
-## A little about me
+## What I build
 
 <div align="center">
-  <img src="./assets/about.svg" alt="macOS-style Dart editor showing Shyam Gajera's role, Flutter and Dart stack, and development approach" width="100%" />
+  <img src="./assets/about.svg" alt="Professional mobile development profile with Shyam Gajera's skills and app-building approach" width="100%" />
 </div>
 
 <div align="center">

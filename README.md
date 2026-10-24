@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Shyam Gajera — Flutter developer building mobile applications" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Shyam Gajera, Flutter mobile application developer" width="100%" />
 </div>
 
-<br />
-
-## What I build
+## About my work
 
 <div align="center">
-  <img src="./assets/about.svg" alt="Professional mobile development profile with Shyam Gajera's skills and app-building approach" width="100%" />
+  <img src="./assets/profile-about.svg" alt="Shyam's approach to designing, building, and integrating mobile applications" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Keep making useful things" width="100%" />
+  <img src="./assets/profile-footer.svg" alt="Get in touch with Shyam Gajera on GitHub" width="100%" />
 </div>

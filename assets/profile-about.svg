@@ -1,0 +1,30 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aboutBg" x1="0" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#111D2D"/><stop offset="1" stop-color="#172538"/></linearGradient>
+    <linearGradient id="mint" x1="100" y1="0" x2="600" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#70E0D2"/><stop offset="1" stop-color="#5AB3DB"/></linearGradient>
+  </defs>
+  <rect width="1200" height="350" rx="28" fill="url(#aboutBg)" stroke="#2A3A4D"/>
+  <text x="64" y="63" fill="#75DDD1" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">HOW I WORK</text>
+  <text x="62" y="116" fill="#F1F5F8" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Practical apps, thoughtful details.</text>
+  <text x="64" y="155" fill="#A7B6C5" font-family="Arial,Helvetica,sans-serif" font-size="15">I enjoy shaping ideas into mobile experiences that are clear, useful,</text>
+  <text x="64" y="179" fill="#A7B6C5" font-family="Arial,Helvetica,sans-serif" font-size="15">and connected to the services people rely on.</text>
+
+  <path d="M64 220H614" stroke="#304256"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <circle cx="77" cy="259" r="15" fill="#1D353F"/><text x="77" y="263" text-anchor="middle" fill="#76DED2" font-size="10" font-weight="700">01</text><text x="102" y="255" fill="#E3EAF0" font-size="12" font-weight="700">Design</text><text x="102" y="274" fill="#91A2B5" font-size="11">Clear flows and screens</text>
+    <circle cx="264" cy="259" r="15" fill="#1D353F"/><text x="264" y="263" text-anchor="middle" fill="#76DED2" font-size="10" font-weight="700">02</text><text x="289" y="255" fill="#E3EAF0" font-size="12" font-weight="700">Build</text><text x="289" y="274" fill="#91A2B5" font-size="11">Flutter and Dart</text>
+    <circle cx="426" cy="259" r="15" fill="#1D353F"/><text x="426" y="263" text-anchor="middle" fill="#76DED2" font-size="10" font-weight="700">03</text><text x="451" y="255" fill="#E3EAF0" font-size="12" font-weight="700">Connect</text><text x="451" y="274" fill="#91A2B5" font-size="11">Firebase and APIs</text>
+  </g>
+
+  <path d="M671 49V301" stroke="#304256"/>
+  <text x="716" y="69" fill="#91A2B5" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">A MOBILE APP, CONNECTED</text>
+  <g transform="translate(979 183)">
+    <circle r="104" fill="#1C2B3D"/><circle r="104" stroke="#34485D"/><circle r="75" stroke="#30465A" stroke-dasharray="3 8"/>
+    <path d="M-43 0H-24M24 0H43M0 -30V-13M0 14V31" stroke="#547087" stroke-width="1.5" stroke-dasharray="3 4"/>
+    <rect x="-23" y="-30" width="46" height="61" rx="9" fill="#22364B" stroke="#52758A"/><rect x="-8" y="-26" width="16" height="3" rx="1.5" fill="#5C7286"/><rect x="-15" y="-16" width="30" height="17" rx="4" fill="#1C4A4B"/><path d="M-10 -5L-4 -10L1 -6L8 -13" stroke="#70E0D2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="-15" y="6" width="30" height="4" rx="2" fill="#4B6174"/><rect x="-15" y="14" width="22" height="4" rx="2" fill="#354B60"/>
+    <rect x="-86" y="-17" width="46" height="34" rx="10" fill="#162638" stroke="#354A5E"/><circle cx="-72" cy="0" r="6" fill="#54C5F8"/><text x="-62" y="3" fill="#CFDAE4" font-family="Arial,Helvetica,sans-serif" font-size="6" font-weight="700">REST</text>
+    <rect x="40" y="-17" width="52" height="34" rx="10" fill="#162638" stroke="#354A5E"/><circle cx="54" cy="0" r="6" fill="#FFCA28"/><text x="64" y="3" fill="#CFDAE4" font-family="Arial,Helvetica,sans-serif" font-size="6" font-weight="700">CLOUD</text>
+    <circle cx="0" cy="-89" r="5" fill="#70E0D2"><animate attributeName="r" values="4;6;4" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="0" cy="89" r="4" fill="#F39A72"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="1110" y="313" text-anchor="end" fill="#688094" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" letter-spacing="1">IDEA  →  INTERFACE  →  INTEGRATION</text>
+</svg>

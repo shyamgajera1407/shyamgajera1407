@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Shyam Gajera, Flutter mobile application developer" width="100%" />
+  <img src="./assets/profile-header-v2.svg" alt="Shyam Gajera, Flutter mobile application developer" width="100%" />
 </div>
 
 ## About my work
